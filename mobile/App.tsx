@@ -53,7 +53,7 @@ export default function App() {
           className="rounded-full bg-green-500 px-5 py-3"
         >
           <Text className="font-alt text-sm uppercase text-black">
-            Cadastart lembrança
+            Cadastrar lembrança
           </Text>
         </TouchableOpacity>
       </View>
